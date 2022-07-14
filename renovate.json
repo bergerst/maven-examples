@@ -1,6 +1,18 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
-  ]
+    "config:base",
+    "schedule:weekends"
+  ],
+  "timezone": "Europe/Berlin",
+  "major": {
+    "addLabels": ["major"]
+  },
+  "minor": {
+    "addLabels": ["minor"]
+  },
+  "patch": {
+    "addLabels": ["patch"]
+  },
+  "pruneStaleBranches": false
 }
