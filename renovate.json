@@ -14,5 +14,6 @@
   "patch": {
     "addLabels": ["patch"]
   },
-  "pruneStaleBranches": false
+  "pruneStaleBranches": false,
+  "bumpVersion": "patch"
 }
