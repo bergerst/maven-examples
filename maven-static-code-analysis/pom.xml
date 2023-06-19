@@ -7,14 +7,14 @@
     <groupId>com.mkyong.examples</groupId>
     <artifactId>maven-static-code-analysis</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spotbugs.version>3.1.8</spotbugs.version>
+        <spotbugs.version>3.1.12.2</spotbugs.version>
         <pmd.version>3.11.0</pmd.version>
     </properties>
 
