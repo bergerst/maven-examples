@@ -6,7 +6,7 @@
     <groupId>com.mkyong.hashing</groupId>
     <artifactId>java-project</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>java-project</name>
     <url>http://maven.apache.org</url>
 
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
