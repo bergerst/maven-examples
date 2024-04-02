@@ -7,7 +7,7 @@
     <groupId>com.mkyong.examples</groupId>
     <artifactId>maven-code-coverage</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
@@ -15,7 +15,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>5.3.1</junit.version>
-        <jacoco.version>0.8.2</jacoco.version>
+        <jacoco.version>0.8.12</jacoco.version>
     </properties>
 
     <dependencies>
