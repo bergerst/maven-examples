@@ -7,7 +7,7 @@
     <groupId>com.mkyong.web</groupId>
     <artifactId>java-web-project</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>java-web-project Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
@@ -80,7 +80,7 @@
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
-                <version>9.4.12.v20180830</version>
+                <version>9.4.56.v20240826</version>
             </plugin>
 
             <!-- Default is too old, update to latest to run the latest Spring 5 + jUnit 5 -->
